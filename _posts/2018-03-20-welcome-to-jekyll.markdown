@@ -6,5 +6,5 @@ categories: welcome
 ---
 Welcome to this very firt post!
 
-So what's this place, no sure yet, but one thing is for sure, this post will be deleted as soon a I figure that out :)
+So what's this place, no idea yet, but one thing is for sure, this post will be deleted as soon a I figure that out :)
 
